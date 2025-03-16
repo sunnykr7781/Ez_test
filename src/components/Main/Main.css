@@ -1,0 +1,9 @@
+*{
+    /* width: 100%; */
+    
+
+}
+.Main{
+    display: flex;
+    width: 100%;
+}
