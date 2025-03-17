@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import axios from "axios"
 import "./LeftSide.css"
-// import main from "../../../src/Assets"
+
 
 
 const LeftSide = () => {
